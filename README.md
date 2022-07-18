@@ -1,5 +1,4 @@
 [![Build Status](https://dev.azure.com/chiemelieobidike/devOps/_apis/build/status/emelieobidike.devOpsW?branchName=main)](https://dev.azure.com/chiemelieobidike/devOps/_build/latest?definitionId=1&branchName=main)
----
 page_type: sample
 languages:
 - javascript
